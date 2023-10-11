@@ -4,3 +4,6 @@ function Uno(){
 function Dos(){
     return console.log('ola dos');
 }
+function Tres(){
+    return console.log('ola tres');
+}
