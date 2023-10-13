@@ -2,3 +2,7 @@ function Uno(){
  console.log("ola")
 }
 
+function Dos(){
+console.log("ola 2")
+}
+
