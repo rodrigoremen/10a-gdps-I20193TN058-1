@@ -1,0 +1,4 @@
+function Uno(){
+ console.log("ola")
+}
+
